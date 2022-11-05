@@ -26,3 +26,8 @@ let within = 'peace';
 
 //Exercise 9: Declare variables like above, except in one line
 let firstName = 'Aidan', lastName = 'Antony', maritalStatus = 'Single', country = 'Canada', age = 23;
+
+//Exercise 10: Declare two variables myAge and yourAge and assign them initial values and log to the browser console.
+let myAge = 23;
+let yourAge = 25;
+console.log(`Hi my age is ${myAge}. Your age is ${yourAge}.`);
