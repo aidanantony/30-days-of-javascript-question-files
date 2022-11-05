@@ -10,3 +10,10 @@ let empty;
 let none;
 let gone;
 let without;
+
+// Exercise 7: Declare 4 variables with values
+let full = 'full'
+let all = 'all'
+let here = ['here']
+let within = 'peace'
+
