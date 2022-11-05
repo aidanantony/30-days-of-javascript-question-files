@@ -5,3 +5,8 @@
 comments can make code readable, easy to reuse and informative
 */
 
+//Exercise 6: Declare 4 variables without assinging values
+let empty;
+let none;
+let gone;
+let without;
