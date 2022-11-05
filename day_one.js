@@ -12,8 +12,14 @@ let gone;
 let without;
 
 // Exercise 7: Declare 4 variables with values
-let full = 'full'
-let all = 'all'
-let here = ['here']
-let within = 'peace'
+let full = 'full';
+let all = 'all';
+let here = ['here'];
+let within = 'peace';
 
+//Exercise 8: Declare variables to store your first name, last name, marital status, country and age in multiple lines
+let firstName = 'Aidan';
+let lastName = 'Antony';
+let maritalStatus = 'Single'
+let country = 'Canada'
+let age = 23;
