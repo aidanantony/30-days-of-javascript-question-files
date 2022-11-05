@@ -18,8 +18,11 @@ let here = ['here'];
 let within = 'peace';
 
 //Exercise 8: Declare variables to store your first name, last name, marital status, country and age in multiple lines
-let firstName = 'Aidan';
-let lastName = 'Antony';
-let maritalStatus = 'Single'
-let country = 'Canada'
-let age = 23;
+// let firstName = 'Aidan';
+// let lastName = 'Antony';
+// let maritalStatus = 'Single'
+// let country = 'Canada'
+// let age = 23;
+
+//Exercise 9: Declare variables like above, except in one line
+let firstName = 'Aidan', lastName = 'Antony', maritalStatus = 'Single', country = 'Canada', age = 23;
