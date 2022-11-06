@@ -21,3 +21,6 @@ console.log(challenge.substring(0,3))
 
 //Exercise 8: Check if the string contains a word Script using includes() method
 console.log(challenge.includes('Script'));
+
+//Exercise 9: Split the string into an array using split() method
+console.log(challenge.split(0,3))
