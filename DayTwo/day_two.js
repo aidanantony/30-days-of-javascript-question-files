@@ -2,4 +2,7 @@
 let challenge = '30 Days of Javascript';
 
 //Exercise 2: Print the string on the browser console using console.log()
-console.log(challenge)
+console.log(challenge);
+
+//Exercise 3: Print the length of the string on the browser console using console.log()
+console.log(challenge.length);
