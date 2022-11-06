@@ -10,5 +10,8 @@ console.log(challenge.length);
 //Exercise 4: Change all the string characters to capital letters using toUpperCase() method
 console.log(challenge.toUpperCase());
 
-//Exercise t: Change all the string characters to lowercase letters using toLowerCase() method
+//Exercise 5: Change all the string characters to lowercase letters using toLowerCase() method
 console.log(challenge.toLowerCase());
+
+//Exercise 6: Cut (slice) out the first word of the string using substr() or substring() method
+console.log(challenge.substring(3,21));
