@@ -18,3 +18,6 @@ console.log(challenge.substring(3,21));
 
 //Exercise 7: Slice out the phrase Days Of JavaScript from 30 Days Of JavaScript.
 console.log(challenge.substring(0,3))
+
+//Exercise 8: Check if the string contains a word Script using includes() method
+console.log(challenge.includes('Script'));
