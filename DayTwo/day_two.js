@@ -28,3 +28,6 @@ console.log(challenge.split(0,3))
 //Exercise 10: I hope this course is not full of jargon. Check if jargon is in the sentence.
 let sentence = 'I hope this course is not full of jargon';
 console.log(sentence.includes('jargon'));
+
+//Exercise 11: Generate a random number between 0-100
+console.log(Math.floor(Math.random()*101));
