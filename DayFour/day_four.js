@@ -25,3 +25,13 @@ function numCheck(a,b) {
   }
 }
 numCheck(10,8);
+
+//Exercise 3: Check if a number is even
+function isEven(num) {
+  if(num % 2 === 0) {
+    console.log('The number is even');
+  } else {
+    console.log('The number is odd');
+  }
+};
+isEven(5);
