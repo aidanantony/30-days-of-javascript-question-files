@@ -13,3 +13,15 @@ function ageCheck(age) {
 }
 
 ageCheck(14);
+
+//Exercise 2: If a is greater than b return 'a is greater than b' else 'a is less than b'. 
+
+function numCheck(a,b) {
+  if (a > b) {
+    console.log('a is greater than b')
+  }
+  else {
+    console.log('b is greater than a')
+  }
+}
+numCheck(10,8);
